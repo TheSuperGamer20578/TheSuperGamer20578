@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!--### Hi there 👋-->
+I dont know what to put here for now so this is the readme
 <!--
 **TheSuperGamer20578/TheSuperGamer20578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
